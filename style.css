@@ -1,0 +1,51 @@
+.header{
+  text-align:center;
+}
+
+.machine{
+  padding:30px;
+  border:1px solid black;
+  border-radius:6px;
+  text-align:center;
+  background:#ccc;
+}
+.input{
+  display:flex;
+  justify-content:center;
+  margin-bottom:2em;
+}
+
+#sym{
+  margin:0 0.6em
+}
+
+.machine input{
+  font-size:18px;
+  text-align:right;
+}
+
+#calc{
+  background:#3da162;
+  color:#fff;
+  margin-bottom:1em;
+}
+
+#rand{
+  background:#4b89db;
+  color:#fff;
+  margin-bottom:1em;
+}
+#clr{
+  background:#db4b4b;
+  color:#fff;
+  margin-bottom:1em;
+}
+.result{
+  text-align:center;
+  height:5em;
+}
+
+.result h1{
+  color:#444;
+  font-weight:bold;
+}
